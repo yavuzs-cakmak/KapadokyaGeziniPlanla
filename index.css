@@ -5,7 +5,7 @@
   box-sizing: border-box;
 }
 body{
-  font-family: "Roboto Mono";
+  font-family: "Roboto Mono" , monospace;
 }
 /* css-2. container isimli class için genişliği 750px ayarlayalım ortalamak için dış boşlukları '0 auto' ayarlayalım.!*/
 
