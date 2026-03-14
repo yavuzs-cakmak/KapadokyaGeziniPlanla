@@ -1,14 +1,15 @@
 /* css-1. sayfanın kenarlarında boşluklar var. bunları yok edelim ve sayfadaki default font'u 'Roboto Mono' yapalım */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 body{
-  font-family: "Roboto Mono" , monospace;
+   margin: 0;
+  padding: 0;
+  font-family: "Roboto Mono";
 }
 /* css-2. container isimli class için genişliği 750px ayarlayalım ortalamak için dış boşlukları '0 auto' ayarlayalım.!*/
-
+.container {
+  max-width: 750px;
+  margin: 0 auto;
+}
 /* css-3.  nav a için;
   genişlik %18 olsun, 
   yükseklik %3 olsun. 
