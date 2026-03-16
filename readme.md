@@ -26,7 +26,8 @@ Farklı display türlerinin (block, inline-block, flex) yerleşim üzerindeki et
 Görselleri belirli bir alana sığdırma ve kırpma işlemleri.
 GitHub : https://github.com/yavuzs-cakmak
 
-LIVE DEMO
+## 🔥 LIVE DEMO :
+Projenin canlı halini buradan inceleyebilirsiniz: [Kapadokya Gezini Planla](https://yavuzs-cakmak.github.io/KapadokyaGeziniPlanla/)
 ![Proje Gorunumu](./assets/KapadokyaGeziniPlanlaProjeGorunumu.jpg)
 
 👨‍💻 Hazırlayan
