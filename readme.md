@@ -1,34 +1,31 @@
-🎈 Kapadokya Tanıtım Sitesi (CSS Pratik Projesi)
+🎈 Kapadokya Turizm Platformu: AI Asistan ve Dijital Rezervasyon Entegrasyonu
 
-Bu proje, bir web sitesi tasarımını piksel hassasiyetinde hayata geçirmek amacıyla hazırlanmış bir HTML5 ve CSS3 uygulama çalışmasıdır. Sosyal medyada görülen modern bir tasarımı temel alarak, temel CSS kurallarını ve kutu modelini pekiştirmek için geliştirilmiştir.
+🤖 Gelişmiş Özellikler ve Otomasyon (Yeni!)
+Bu proje, statik bir web sitesinden dinamik bir hizmet platformuna dönüştürülmüştür. İçerisine entegre edilen modern araçlarla kullanıcı etkileşimi ve operasyonel verimlilik artırılmıştır:
 
-🚀 Proje Özellikleri
-Responsive Tasarım Temelleri: Sayfa genişliği max-width kullanılarak sınırlandırılmış ve içerik margin: 0 auto ile her ekranda ortalanmıştır.
+Yapay Zeka Destekli Rehber (Chatbase): GPT tabanlı, site içeriğine hakim bir AI asistanı entegre edildi. Ziyaretçilerin Kapadokya ve turlar hakkındaki sorularını Türkçe ve İngilizce dillerinde yanıtlayabilen, kullanıcıyı doğrudan satış kanalına yönlendiren akıllı bir "Ajan" yapısı kuruldu.
 
-Modern CSS Teknikleri: display: inline-block ve Flexbox yapıları kullanılarak resimler ve metinler yan yana dizilmiştir.
+Dijital Rezervasyon Sistemi (Calendly): Manuel randevu süreçlerini ortadan kaldıran, Google Takvim ile tam senkronize çalışan bir takvim entegrasyonu yapıldı. Kullanıcılar, müsaitlik durumuna göre anlık olarak Google Meet bağlantılı planlama görüşmeleri oluşturabilmektedir.
 
-Gelişmiş Görsel Yönetimi: object-fit: cover kullanılarak resimlerin bozulmadan, alanı tam kaplaması ve taşan kısımların kırpılması sağlanmıştır.
+Dinamik Dil Desteği: Hem web sitesi yapısı hem de entegre AI asistanı, ziyaretçinin diline göre (TR/EN) duyarlı şekilde çalışacak şekilde optimize edildi.
 
-Özel Tipografi: Google Fonts üzerinden Roboto Mono ve Chelsea Market fontları entegre edilmiştir.
+📚 Bu Süreçte Ek Olarak Neler Öğrendim?
+Statik CSS kurallarının ötesinde, bir mühendis olarak şu teknik yetkinlikleri pekiştirdim:
 
-🛠 Kullanılan Teknolojiler
-HTML5: Semantik etiketleme (header, section, nav, footer).
+Üçüncü Parti API ve Widget Entegrasyonu: Harici sistemlerin (Calendly & Chatbase) mevcut bir web yapısına performans kaybı yaşatmadan nasıl gömüleceğini (Embed) deneyimledim.
 
-CSS3: Kutu modeli (Box Model), Pseudo-selectors (:first-child, :last-child), Kenar yuvarlatma (border-radius).
+Prompt Engineering (Yapay Zeka Yönergesi): Bir chatbot'un belirli bir işletme kimliğiyle (Professional Tour Guide) konuşmasını sağlayan sistem talimatlarının (System Prompt) kurgulanması.
 
-📚 Bu Projeyle Neler Öğrendim?
-CSS Kutu Modeli'nin (Margin, Padding, Border) derinlemesine analizi.
+İş Akışı Otomasyonu: Statik bir web sayfasının, yapay zeka ve takvim otomasyonu ile nasıl bir "SaaS" (Hizmet Olarak Yazılım) modeline dönüştürülebileceğinin mantığını kavradım.
 
-Elemanları dikeyde ve yatayda hizalama yöntemleri (vertical-align, text-align).
+Widget UI/UX Özelleştirme: Harici araçların renk ve stil ayarlarını, ana sitenin kurumsal renk kodlarına (#FF764E vb.) göre özelleştirerek tasarım bütünlüğünü koruma.
 
-Farklı display türlerinin (block, inline-block, flex) yerleşim üzerindeki etkileri.
-
-Görselleri belirli bir alana sığdırma ve kırpma işlemleri.
-GitHub : https://github.com/yavuzs-cakmak
-
-## 🔥 LIVE DEMO :
-Projenin canlı halini buradan inceleyebilirsiniz: [Kapadokya Gezini Planla](https://yavuzs-cakmak.github.io/KapadokyaGeziniPlanla/)
+🔥 Güncel LIVE DEMO
+Projenin yapay zeka ve rezervasyon sistemli canlı halini buradan inceleyebilirsiniz: [Kapadokya Gezini Planla](https://yavuzs-cakmak.github.io/KapadokyaGeziniPlanla/)
 ![Proje Gorunumu](./assets/KapadokyaGeziniPlanlaProjeGorunumu.jpg)
+
+💡 Mühendislik Notu
+Bu çalışma, sadece görsel bir tasarım değil; HTML/CSS temelleri, Yapay Zeka Entegrasyonu ve Kullanıcı Deneyimi (UX) süreçlerinin birleştiği hibrit bir projedir.
 
 👨‍💻 Hazırlayan
 Yavuz Selim Çakmak
