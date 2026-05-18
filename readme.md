@@ -31,4 +31,4 @@ Bu çalışma, sadece görsel bir tasarım değil; HTML/CSS temelleri, Yapay Zek
 Yavuz Selim Çakmak
 ## 📫 İletişim
 cakmakselimfb58@gmail.com
-LinkedIn: https://www.linkedin.com/in/yavuz-selim-%C3%A7akmak-335712242/ 
+LinkedIn: [Linkedin.com/in/yavuzscakmak](https://www.linkedin.com/in/yavuzscakmak/)
